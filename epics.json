@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Cloud Migration v2",
+    "description": "Migrate legacy infrastructure to AWS, including databases and CI/CD pipelines.",
+    "status": "complete",
+    "contributors": [
+      "Anil Kumar",
+      "Priya Saha"
+    ],
+    "tags": [
+      "cloud",
+      "AWS",
+      "migration"
+    ],
+    "completion_date": "2024-05-01",
+    "content_generated": false
+  },
+  {
+    "id": 2,
+    "title": "AI Chatbot Integration",
+    "description": "Integrate AI chatbot into the customer service platform.",
+    "status": "complete",
+    "contributors": [
+      "Sunita Rao",
+      "Vivek Menon"
+    ],
+    "tags": [
+      "AI",
+      "chatbot",
+      "customer-service"
+    ],
+    "completion_date": "2025-05-17",
+    "content_generated": false
+  },
+  {
+    "id": 3,
+    "title": "Zero Trust Security Rollout",
+    "description": "Implement Zero Trust security across enterprise endpoints.",
+    "status": "open",
+    "contributors": [
+      "Rajesh Gupta",
+      "Meena Joshi"
+    ],
+    "tags": [
+      "security",
+      "zero-trust"
+    ],
+    "completion_date": null,
+    "content_generated": false
+  }
+]
