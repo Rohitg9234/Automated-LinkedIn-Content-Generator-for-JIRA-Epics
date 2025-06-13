@@ -1,14 +1,4 @@
-Absolutely! Here’s an improved and **more attractive** `README.md` with:
 
-* Enhanced formatting and emojis for clarity and appeal.
-* Details about the **requirements file** and environment variables.
-* Clear **steps with visual cues**.
-* Centered, well-sized images for visual workflow.
-* Extra highlights to make it feel professional and easy to follow.
-
----
-
-````markdown
 # 🚀 Auto Content Generator Agent
 
 **Industry:** IT Services  
@@ -89,19 +79,16 @@ python run2.py
 
 Follow the steps visually for quick guidance:
 
-<div align="center">
-  <img src="1.png" alt="Step 1: Project Board" width="400"/>
-  <br/><br/>
-  <img src="2.png" alt="Step 2: Epic Completed" width="400"/>
-  <br/><br/>
-  <img src="3.png" alt="Step 3: Fetching Details" width="400"/>
-  <br/><br/>
-  <img src="4.png" alt="Step 4: News Integration" width="400"/>
-  <br/><br/>
-  <img src="5.png" alt="Step 5: Content Generation" width="400"/>
-  <br/><br/>
-  <img src="6.png" alt="Step 6: Approval Flow" width="400"/>
-</div>
+<p align="center">
+  <img src="1.png" alt="Step 1" />
+  <img src="2.png" alt="Step 2" />
+  <br>
+  <img src="3.png" alt="Step 3" />
+  <img src="4.png" alt="Step 4" />
+  <br>
+  <img src="5.png" alt="Step 5" />
+  <img src="6.png" alt="Step 5" />
+</p>
 
 ---
 
